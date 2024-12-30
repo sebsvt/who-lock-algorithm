@@ -69,17 +69,17 @@ export default function AuthorPage() {
             <h2 className="text-2xl font-bold tracking-tight">About Me</h2>
             <div className="prose dark:prose-invert max-w-none">
               <p>
-                Hi there! I'm a passionate Full Stack Developer with over 5
+                Hi there! I&apos;m a passionate Full Stack Developer with over 5
                 years of experience in building web applications. I specialize
                 in React, Next.js, and Node.js, with a strong focus on creating
                 performant and accessible web experiences.
               </p>
               <p>
-                When I'm not coding, you can find me writing technical blog
+                When I&apos;m not coding, you can find me writing technical blog
                 posts, giving lectures on web development, and contributing to
-                open-source projects. I'm particularly interested in modern web
-                technologies, serverless architecture, and improving developer
-                experience.
+                open-source projects. I&apos;m particularly interested in modern
+                web technologies, serverless architecture, and improving
+                developer experience.
               </p>
             </div>
           </section>
