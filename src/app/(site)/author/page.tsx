@@ -69,17 +69,24 @@ export default function AuthorPage() {
             <h2 className="text-2xl font-bold tracking-tight">About Me</h2>
             <div className="prose dark:prose-invert max-w-none">
               <p>
-                Hi there! I&apos;m a passionate Full Stack Developer with over 5
-                years of experience in building web applications. I specialize
-                in React, Next.js, and Node.js, with a strong focus on creating
-                performant and accessible web experiences.
-              </p>
-              <p>
-                When I&apos;m not coding, you can find me writing technical blog
-                posts, giving lectures on web development, and contributing to
-                open-source projects. I&apos;m particularly interested in modern
-                web technologies, serverless architecture, and improving
-                developer experience.
+                Hi, I&apos;m Saharat, a passionate maker and lifelong learner
+                with a love for exploring the intersection of science,
+                technology, and creativity. 🚀 Aerospace Enthusiast: I&apos;m
+                deeply fascinated by the skies and beyond, constantly inspired
+                by the marvels of flight and space exploration. ⚛️ Quantum
+                Computing Aficionado: I enjoy delving into the quantum world,
+                where science meets cutting-edge computation. 🏆 Competitive
+                Programmer: Solving challenging problems and refining algorithms
+                keeps my mind sharp and my skills growing. 🔒 Cybersecurity
+                Explorer: I&apos;m intrigued by the ever-evolving world of
+                cybersecurity and its role in keeping our digital lives safe. 💻
+                Coding Hobbyist: From crafting playful projects to building
+                impactful software, coding is my favorite creative outlet.
+                Whether it’s designing an innovative gadget or diving into new
+                tech fields, I thrive on the joy of making things that inspire
+                and solve real-world problems. Through this blog, I aim to share
+                my journey, ideas, and projects with fellow enthusiasts and
+                curious minds. Let’s build something amazing together!
               </p>
             </div>
           </section>
